@@ -14,4 +14,4 @@ Secondcovid-19: https://nbviewer.jupyter.org/github/juan12425/Covid19Analysis/bl
 
 Firstcovid-19: https://nbviewer.jupyter.org/github/juan12425/Covid19Analysis/blob/9561d35dc3ce104ce1d6a6ba8e26ebbd749bfa84/Firstcovid-19.ipynb
 
-
+Based on: https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/
