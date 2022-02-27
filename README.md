@@ -8,6 +8,15 @@ Complete view of the files:
 
 https://nbviewer.jupyter.org/github/juan12425/Covid19Analysis/blob/c6238f31fee805985fdc11776de83a0a58738772/Sixthcovid-19.ipynb
 
+### SIR differential equations
+![Differential equations](images/DE.png)
+
+### SIR experimental model
+![experimental model](images/emodel.png)
+
+### SIR prediction model 
+![differential equations](images/pmodel.png)
+
 ## Fifthcovid-19:
 
 https://nbviewer.jupyter.org/github/juan12425/Covid19Analysis/blob/01dec96d19b0c6d7f0744bce34b0d1bd89e97d71/Fifthcovid-19.ipynb
